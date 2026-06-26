@@ -1,6 +1,6 @@
 # UnColor
 
-## Zusammenfassung (kurz, max. 250 Zeichen)
+## Zusammenfassung
 
 Entfernt Farb-Tags wie {color} oder {color:#000000}, die Texte unleserlich machen. Text markieren, Hotkey drücken (Strg+Shift+U) – das Ergebnis liegt sofort sauber in der Zwischenablage. Alternativ Text ins Popup einfügen und bereinigen.
 
@@ -31,14 +31,6 @@ Der eigentliche Text bleibt vollständig erhalten – nur die Tags verschwinden.
 
 Datenschutz: UnColor sendet keine Daten, sammelt nichts und kommuniziert mit keinem Server. Alles passiert lokal in deinem Browser.
 
-## Kategorie
-
-Productivity / Tabs (passend: „Other" oder „Productivity")
-
-## Tags / Stichwörter
-
-jira, color tags, clipboard, text cleanup, productivity
-
 ## Datenschutz-Hinweis
 
 Diese Erweiterung sammelt, speichert oder überträgt keinerlei Daten. Die Verarbeitung des markierten bzw. eingefügten Textes erfolgt ausschließlich lokal im Browser.
@@ -54,4 +46,4 @@ Diese Erweiterung sammelt, speichert oder überträgt keinerlei Daten. Die Verar
 
 ## Disclaimer
 
-I created this in 10 Minutes with AI!
+Ich hab das Addon in 10 Minuten mit KI erstellt um nur schnell ne Lösugn zu haben!
